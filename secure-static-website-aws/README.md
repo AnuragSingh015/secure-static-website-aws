@@ -10,7 +10,7 @@ This project demonstrates how to securely host a static website using AWS servic
 - ACM
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](architecture-diagram.png)
 
 ## Project Steps
 
