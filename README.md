@@ -1,4 +1,4 @@
-<img width="1398" height="760" alt="image" src="https://github.com/user-attachments/assets/efd4d141-c881-41e8-961a-6957d343b1af" /># Secure Static Website Hosting using AWS
+# Secure Static Website Hosting using AWS
 
 This project demonstrates how to securely host a static website using AWS services.
 
