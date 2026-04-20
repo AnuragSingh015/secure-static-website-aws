@@ -36,4 +36,4 @@ A secure and scalable static website hosted on AWS using S3 and CloudFront.
 ## Detailed Documentation
 A detailed step-by-step explanation of this project is available in the repository document:
 
-[Project Documentation](./)
+[Project Documentation](./Secure-Static-Website-Hosting-using-Amazon-S3-and-CloudFront.pdf)
