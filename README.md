@@ -32,3 +32,8 @@ This project demonstrates how to securely host a static website using AWS servic
 ## Outcome
 
 A secure and scalable static website hosted on AWS using S3 and CloudFront.
+
+## Detailed Documentation
+A detailed step-by-step explanation of this project is available in the repository document:
+
+[Project Documentation](./)
